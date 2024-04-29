@@ -1,4 +1,4 @@
-#Weather Report Using SpringBoot Java
+#Weather-Report-Using-SpringBoot-Java
 
 
 This project is a Java application that integrates with the Weather API from Rapid API to provide weather forecast information. It exposes RESTful APIs to retrieve weather forecast summaries and hourly details.
